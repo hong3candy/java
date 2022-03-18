@@ -1,0 +1,13 @@
+
+public class test {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		char b = 'd';
+		System.out.println(b);
+		char c = (char)b +1;
+		System.out.println(b);
+		System.out.println(c);
+	}
+
+}

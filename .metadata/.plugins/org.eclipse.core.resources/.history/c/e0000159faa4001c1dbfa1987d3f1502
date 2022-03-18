@@ -1,0 +1,12 @@
+
+public class test {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		char b = 'd';
+		char c = (char)((int)b + 1);
+		System.out.println(b);
+		System.out.println(c);
+	}
+
+}

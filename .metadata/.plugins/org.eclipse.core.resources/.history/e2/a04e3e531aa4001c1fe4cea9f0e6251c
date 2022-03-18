@@ -1,0 +1,19 @@
+
+public class GenderTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		boolean android = true;
+		boolean iOS = false;
+		
+		if (android == true)
+		{
+			System.out.println("안드로이드 입니다.");
+		}
+		else
+		{
+			System.out.println("iOS입니다.");
+		}
+	}
+
+}

@@ -1,0 +1,13 @@
+package hsj;
+
+public class op2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int a = 7200000;
+		double b = 97.8;
+		double c = a*b;
+		System.out.println(c);
+	}
+
+}

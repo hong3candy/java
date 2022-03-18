@@ -1,0 +1,18 @@
+
+public class Control3 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int score = 60;
+		int score1 = 70;
+		int score2 = 80;
+		int score3 = 50;
+		int score4 = 30;
+		int a = score+score1+score2+score3+score4;
+		float b = a/5;
+		
+		System.out.println("나잘난의 성적 총합계는 "+ a + "점입니다.");
+		System.out.println("나잘난의 평균 성적은 "+b +"점입니다.");
+	}
+
+}

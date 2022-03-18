@@ -1,0 +1,13 @@
+
+public class Test {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int i = 7;
+		System.out.println(i > 3 && i < 0);
+		
+		char x = 'j';
+		System.out.println((x >= 'a' && x <= 'z')||(x >= 'A' && x <= 'Z'));
+	}
+
+}

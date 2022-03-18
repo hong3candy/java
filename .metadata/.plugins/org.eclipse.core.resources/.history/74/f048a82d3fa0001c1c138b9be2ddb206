@@ -1,0 +1,14 @@
+package hsj;
+
+public class op2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		byte a = 10;
+		byte b = 20;
+		byte c = a + b;
+		byte d = (byte)a + b;
+		byte e = (byte)(a + b);
+	}
+
+}
